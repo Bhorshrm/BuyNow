@@ -130,5 +130,5 @@ STATIC_ROOT=os.path.join(BASE_DIR,'staticfiles')
 #media file
 MEDIA_URL='/media/'
 MEDIA_ROOT=os.path.join(BASE_DIR,'static','media')
-STRIPE_PUBLISHABLE_KEY='pk_test_51HB1LpAo37m2T8WrdeCLa1v3qZkTpYXRAvcAIRruAWjGtIzL14KBwfWt08dLzOzk7uzbcGZVErefK2cWN3NOnyCg00OQoRarox'
-STRIPE_SECRET_KEY='sk_test_51HB1LpAo37m2T8WrBxHmLF1WDLMmVXcSyRvyds56ePlPJKjQPALmKMKghsNCjNCexnJrqEpkl48c53S8f3prisw6007HWGXRy3'
+STRIPE_PUBLISHABLE_KEY='Request your own API Key from Stripe'
+STRIPE_SECRET_KEY='Request your own API Key from Stripe'
