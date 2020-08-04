@@ -8,7 +8,7 @@
 > A Ecommerce Site to buy Products with functionality of cart,Payment and Stock Managment(Primarily Aim of this project to learn Backend Functionality of E-commerce Giants like Amazon,Flipkart,etc. Please Ignore the UX/UI Anomalies of this project .You can Host the site Globally making some changes in debugging and Server settings
 
 
-**Recordit**
+**A Short Video of project**
 
 <a href="https://recordit.co/qDlCzJp82h">Glimpse Of Project</a>
 
