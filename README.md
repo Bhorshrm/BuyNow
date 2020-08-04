@@ -10,7 +10,7 @@
 
 **Recordit**
 
-![Recordit GIF](https://recordit.co/qDlCzJp82h)
+<a href="https://recordit.co/qDlCzJp82h">Glimpse Of Project</a>
 
 
 ---
