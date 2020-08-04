@@ -29,8 +29,8 @@
 
 ## Installation Required
 
--->Install Libraries Django,Stripe and an account on Stripe.com(To maintain your Transactions)
--->Request to generate your API KEYS from Stripe.com and put in settings.py
+-Install Libraries Django,Stripe and an account on Stripe.com(To maintain your Transactions)
+-Request to generate your API KEYS from Stripe.com and put in settings.py
 
 ### Clone
 
@@ -38,10 +38,10 @@
 
 
 ## Features
-->A Place to buy Products of all categories
-->Integrated with Payment API
-->Auto update of stocks
-->Cart Funtionality
+-A Place to buy Products of all categories
+-Integrated with Payment API
+-Auto update of stocks
+-Cart Funtionality
 
 ## Contributing
 
