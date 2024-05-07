@@ -4,13 +4,13 @@
 <!--[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)-->
 
 # BuyNow
-<a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/BuyNow/blob/master/Screenshot%20(36).png" ></a>-->
-<a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/BuyNow/blob/master/Screenshot%20(37).png"></a>-->
-<a href="https://github.com/gyrsh"><img src="https://github.com/gyrsh/BuyNow/blob/master/Screenshot%20(39).png"></a>-->
+<a href="https://github.com/Bhorshrm"><img src="https://github.com/Bhorshrm/BuyNow/blob/master/Screenshot%20(36).png" ></a>-->
+<a href="https://github.com/Bhorshrm"><img src="https://github.com/Bhorshrm/BuyNow/blob/master/Screenshot%20(37).png"></a>-->
+<a href="https://github.com/Bhorshrm"><img src="https://github.com/Bhorshrm/BuyNow/blob/master/Screenshot%20(39).png"></a>-->
 
-> A Ecommerce Site to buy Products with functionality of cart,Payment and Stock Managment(Primarily Aim of this project to learn Backend Functionality of E-commerce Giants like Amazon,Flipkart,etc. Please Ignore the UX/UI Anomalies of this project .You can Host the site Globally making some changes in debugging and Server settings
+> An Ecommerce Site to buy Products with functionality of cart,Payment and Stock Managment(Primarily Aim of this project is to learn Backend Functionality of E-commerce Giants like Amazon,Flipkart,etc. Please Ignore the UX/UI Anomalies of this project .You can Host the site Globally making some changes in debugging and Server settings
 
-
+Bhorshrm
 **A Short Video of project**
 
 <a href="https://recordit.co/qDlCzJp82h">Glimpse Of Project</a>
@@ -37,7 +37,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/gyrsh/BuyNow`
+- Clone this repo to your local machine using `https://github.com/Bhorshrm/BuyNow`
 
 
 ## Features
@@ -56,7 +56,7 @@
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/gyrsh/BuyNow`
+    - 👯 Clone this repo to your local machine using `https://github.com/Bhorshrm/BuyNow`
 
 ### Step 2
 
